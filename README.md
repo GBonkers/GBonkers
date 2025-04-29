@@ -2,7 +2,7 @@
 <p align="center">Full-Stack Developer · AI Explorer · Builder of Nexa, Husband 4 Hire & More</p>
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Guillaume Bouchard banner" width="100%" />
+  <img src="assets/banner.png" alt="Guillaume Bouchard banner" width="100%" />
 </p>
 
 ---
